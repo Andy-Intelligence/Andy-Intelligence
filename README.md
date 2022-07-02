@@ -40,8 +40,8 @@ You can click the Preview link to take a look at your changes.
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>Django</center></b></span> 
-<img height=65px src="https://www.pngitem.com/pimgs/m/159-1595977_flask-python-logo-hd-png-download.png](https://logos-download.com/wp-content/uploads/2019/06/Django_Logo.png"> 
+<span><b><center>Flask</center></b></span> 
+<img height=65px src="(https://logos-download.com/wp-content/uploads/2019/06/Django_Logo.png)"> 
 </td>
 
  <td align="center" width="20%">
