@@ -46,7 +46,7 @@ You can click the Preview link to take a look at your changes.
 
  <td align="center" width="20%">
 <span><b><center>Nginx</center></b></span> 
-<img height=65px src="http://www.myiconfinder.com/uploads/iconsets/256-256-cf2ed3956a3a1484f83ed20d7e987f21.png"> 
+<img height=65px src="![image](https://user-images.githubusercontent.com/81812611/177004891-b8e9f597-b480-4876-9496-ac2f35f3a4b6.png)"> 
 </td>                                                                                                       
                                                                                                         
 <td align="center" width="20%">
