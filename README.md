@@ -276,21 +276,6 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<tr>
-<td align="center" width="20%">
-<span><b><center>TensorFlow</center></b></span> 
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-</td>
-</tr>
-
-
-<tr>
-<td align="center" width="20%">
-<span><b><center>ReactJs</center></b></span> 
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-</td>
-</tr>
-
 </tbody>
 </table>
 
