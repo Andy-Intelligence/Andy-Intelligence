@@ -286,7 +286,7 @@ You can click the Preview link to take a look at your changes.
   
 </td>
 <td align="center" width="20%">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Andy-Intelligence&" alt="Andy-Intelligence" /></p>
+<p><img width="90%" height = "90%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Andy-Intelligence&" alt="Andy-Intelligence" /></p>
               
 </td>
 </tr>
