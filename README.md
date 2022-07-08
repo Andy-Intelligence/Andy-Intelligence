@@ -77,8 +77,8 @@ You can click the Preview link to take a look at your changes.
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>MongoDB</center></b></span> 
-<img height=65px src="https://www.logolynx.com/images/logolynx/d5/d50b83324fb4fbab14cdfaf47409115b.jpeg"> 
+<span><b><center>PostgreSQL</center></b></span> 
+<img height=65px src="https://th.bing.com/th/id/R.086f2a4de4eea1e8bbf7a2dd49c4f66f?rik=iQ1Pbn9Xb4fH2Q&pid=ImgRaw&r=0"> 
 </td>
 
 
