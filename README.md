@@ -274,6 +274,10 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 <h1 align = "center"> My Profile Information</h1>
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Andy-Intelligence&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <table>
 <tbody>
 <tr>
@@ -304,6 +308,9 @@ You can click the Preview link to take a look at your changes.
                 
 </tbody>
 </table>
+
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Andy-Intelligence&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
