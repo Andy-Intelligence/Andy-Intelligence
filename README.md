@@ -358,7 +358,7 @@ style="vertical-align:top; margin: 4px">
 <td align="center" width="20%">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andy-Intelligence&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
 </td>
-<td align="center" width="20%">
+<td align="center" >
                                          
 <img width="90%" height = "90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andy-Intelligence&layout=compact&theme=tokyonight" />
    
