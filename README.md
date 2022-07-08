@@ -265,8 +265,67 @@ You can click the Preview link to take a look at your changes.
 <span><b><center>TensorFlow</center></b></span> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </td>
+           
+           
+           
+<td align="center" width="20%">
+<span><b><center>AWS</center></b></span> 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="cpp" height="40"
+style="vertical-align:top; margin: 4px">
+</td>
+           
+           
+           
+           
+           
+  <td align="center" width="20%">
+<span><b><center>C#</center></b></span> 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="cpp" height="40"
+style="vertical-align:top; margin: 4px">
+</td>
+           
+           
+           
+           
+           
 </tr>
 
+
+
+
+
+
+
+
+<tr>
+<td align="center" width="20%">
+<span><b><center>FireBase</center></b></span> 
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+</td>
+           
+           
+           
+<td align="center" width="20%">
+<span><b><center>Azure</center></b></span> 
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" alt="cpp" height="40"
+style="vertical-align:top; margin: 4px">
+</td>
+           
+           
+           
+           
+           
+  <td align="center" width="20%">
+<span><b><center>Solidity</center></b></span> 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ethereum/ethereum.png" alt="cpp" height="40"
+style="vertical-align:top; margin: 4px">
+</td>
+           
+           
+           
+           
+           
+</tr>
 
 
 </tbody>
