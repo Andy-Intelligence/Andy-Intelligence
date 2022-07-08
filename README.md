@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 ## About Me
 
 
-* My name is [Andidiong Usoro](https://ng.linkedin.com/in/andidiong-usoro-52a201229) :blush:	 . I just got my B.Eng from Afe Babalola University in Mechatronics Engineering with specialization in Full Stack Web Development.
+* My name is [Andidiong Usoro](https://ng.linkedin.com/in/andidiong-usoro-52a201229) :blush:	 . I just got my B.Eng from Afe Babalola University in Mechatronics Engineering but currently i'm passionate about programming just about anything.
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
            
