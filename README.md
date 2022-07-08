@@ -273,7 +273,7 @@ You can click the Preview link to take a look at your changes.
 </table>
 
 <br>
-
+<h1 align = "center"> My Profile Information</h1>
 <table>
 <tbody>
 <tr>
@@ -297,7 +297,7 @@ You can click the Preview link to take a look at your changes.
 </td>
 <td align="center" width="20%">
                                          
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andy-Intelligence&layout=compact&theme=tokyonight" />
+<img width="80%" height = "70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andy-Intelligence&layout=compact&theme=tokyonight" />
    
 </td>
 </tr>
