@@ -81,21 +81,21 @@ You can click the Preview link to take a look at your changes.
 <img height=65px src="https://www.logolynx.com/images/logolynx/d5/d50b83324fb4fbab14cdfaf47409115b.jpeg"> 
 </td>
 
-</tr>
 
 
-<tr>
+
+
 <td align="center" width="20%">
 <span><b><center>Arduino</center></b></span> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 
 </td>
 
-</tr>
 
 
 
-<tr>
+
+
 <td align="center" width="20%">
 <span><b><center>GNU</center></b></span> 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
@@ -109,17 +109,17 @@ You can click the Preview link to take a look at your changes.
 <span><b><center>C++</center></b></span> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 </td>
-</tr>
 
 
-<tr>
+
+
 <td align="center" width="20%">
 <span><b><center>GitHub</center></b></span> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 </td>
-</tr>
 
-<tr>
+
+
 <td align="center" width="20%">
 <span><b><center>Java</center></b></span> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
@@ -133,21 +133,21 @@ You can click the Preview link to take a look at your changes.
 <span><b><center>JavaScript</center></b></span> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 </td>
-</tr>
 
 
 
 
 
-<tr>
+
+
 <td align="center" width="20%">
 <span><b><center>Linux</center></b></span> 
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </td>
-</tr>
 
 
-<tr>
+
+
 <td align="center" width="20%">
 <span><b><center>Matlab</center></b></span> 
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
@@ -156,32 +156,26 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<tr>
-<td align="center" width="20%">
-<span><b><center>Matlab</center></b></span> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-</td>
-</tr>
 
 <tr>
 <td align="center" width="20%">
 <span><b><center>MongoDb</center></b></span> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 </td>
-</tr>
 
 
-<tr>
+
+
 <td align="center" width="20%">
-<span><b><center>MongoDb</center></b></span> 
+<span><b><center>MySQL</center></b></span> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </td>
-</tr>
 
 
 
 
-<tr>
+
+
 <td align="center" width="20%">
 <span><b><center>Nextjs</center></b></span> 
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
@@ -195,22 +189,21 @@ You can click the Preview link to take a look at your changes.
 <span><b><center>Nodejs</center></b></span> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a></a>
 </td>
-</tr>
 
-<tr>
+
+
 <td align="center" width="20%">
-<span><b><center>Nodejs</center></b></span> 
+<span><b><center>openCV</center></b></span> 
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
 </td>
-</tr>
 
 
 
 
 
-<tr>
+
 <td align="center" width="20%">
-<span><b><center>Nodejs</center></b></span> 
+<span><b><center>Pandas</center></b></span> 
  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
 </td>
 </tr>
@@ -224,19 +217,19 @@ You can click the Preview link to take a look at your changes.
 <span><b><center>PHP</center></b></span> 
  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 </td>
-</tr>
 
 
-<tr>
+
+
 <td align="center" width="20%">
 <span><b><center>Python</center></b></span> 
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </td>
-</tr>
 
 
 
-<tr>
+
+
 <td align="center" width="20%">
 <span><b><center>Pytorch</center></b></span> 
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
@@ -248,18 +241,18 @@ You can click the Preview link to take a look at your changes.
 <span><b><center>Reactjs</center></b></span> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 </td>
-</tr>
 
-<tr>
+
+
 <td align="center" width="20%">
 <span><b><center>React Native</center></b></span> 
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
 </td>
-</tr>
 
 
 
-<tr>
+
+
 <td align="center" width="20%">
 <span><b><center>SciKit</center></b></span> 
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
