@@ -97,7 +97,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <td align="center" width="20%">
-<span><b><center>GNU</center></b></span> 
+<span><b><center>Bash</center></b></span> 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 </td>
 </tr>
@@ -114,7 +114,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <td align="center" width="20%">
-<span><b><center>GitHub</center></b></span> 
+<span><b><center>CSS</center></b></span> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 </td>
 
@@ -232,7 +232,7 @@ You can click the Preview link to take a look at your changes.
 
 <td align="center" width="20%">
 <span><b><center>Pytorch</center></b></span> 
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
 </td>
 </tr>
 
