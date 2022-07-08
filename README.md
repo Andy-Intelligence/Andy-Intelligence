@@ -70,8 +70,8 @@ You can click the Preview link to take a look at your changes.
 
 
 <td align="center" width="20%">
-<span><b><center>Python</center></b></span> 
-<img height=65px src="https://www.python.org/static/community_logos/python-logo.png"> 
+<span><b><center>C</center></b></span> 
+<img height=65px src="https://th.bing.com/th/id/R.6e46e7dbe2bb73dacc055e5dbd85c3ad?rik=y3qxkQPhFGlvtA&pid=ImgRaw&r=0"> 
 </td>
 </tr>
 
