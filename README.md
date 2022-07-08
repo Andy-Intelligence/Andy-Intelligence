@@ -300,21 +300,8 @@ You can click the Preview link to take a look at your changes.
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andy-Intelligence&layout=compact&theme=tokyonight" />
    
                                  </td>
-                                  <td>
-                                            
-                                 </td>
                       </tr>
-                      <tr>
-                                 <td>
-                                            
-                                 </td>
-                                  <td>
-                                            
-                                 </td>
-                                  <td>
-                                            
-                                 </td>
-                      </tr>
+                
            </tbody>
 </table>
 
