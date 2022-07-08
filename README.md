@@ -317,7 +317,7 @@ style="vertical-align:top; margin: 4px">
            
   <td align="center" width="20%">
 <span><b><center>Solidity</center></b></span> 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ethereum/ethereum.png" alt="cpp" height="40"
+<img src="https://th.bing.com/th/id/R.5cd6da7e01bd8f6f3ba42969c067199e?rik=7gjCU18X29x7Rw&pid=ImgRaw&r=0" alt="cpp" height="40"
 style="vertical-align:top; margin: 4px">
 </td>
            
