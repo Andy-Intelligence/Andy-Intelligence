@@ -275,8 +275,8 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 <table>
-           <tbody>
-                      <tr>
+<tbody>
+<tr>
                                  <td align="center" width="20%">
                                      <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Andy-Intelligence&show_icons=true&locale=en&layout=compact" alt="okilonet1" /></p>       
                                  </td>
@@ -284,25 +284,25 @@ You can click the Preview link to take a look at your changes.
                                           
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Andy-Intelligence&show_icons=true&locale=en" alt="okilonet1" /></p>
   
-                                 </td>
-                                  <td align="center" width="20%">
-                                           <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Andy-Intelligence&" alt="Andy-Intelligence" /></p>
+</td>
+<td align="center" width="20%">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Andy-Intelligence&" alt="Andy-Intelligence" /></p>
               
-                                 </td>
-                      </tr>
+</td>
+</tr>
                       
-                      <tr>
-                                 <td align="center" width="20%">
-                                            <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andy-Intelligence&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
-                                 </td>
-                                  <td align="center" width="20%">
+<tr>
+<td align="center" width="20%">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andy-Intelligence&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
+</td>
+<td align="center" width="20%">
                                          
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andy-Intelligence&layout=compact&theme=tokyonight" />
    
-                                 </td align="center" width="20%">
-                      </tr>
+</td>
+</tr>
                 
-           </tbody>
+</tbody>
 </table>
 
 
